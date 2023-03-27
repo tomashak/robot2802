@@ -13,3 +13,4 @@ Vyhledej
     Capture Page Screenshot
     Input Text  ${search_input_xpath}    ${co_hledat}
     Click Element  ${search_btn_xpath}
+    #test
